@@ -25,8 +25,8 @@ Sono sempre curioso d'imparare nuove competenze, strumenti e concetti. Oltre a l
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,github,sass,typescript,angular,c#&perline=9)](https://skillicons.dev)
 
 ## Contac
- <p align="center">
-<a href="[https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/](https://www.linkedin.com/in/anthony-villacis-83a053202/)">
+ 
+<a href="https://www.linkedin.com/in/anthony-villacis-83a053202/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
 
@@ -39,7 +39,7 @@ Sono sempre curioso d'imparare nuove competenze, strumenti e concetti. Oltre a l
 </a>
 -->
 
-</p>
+
 
 <!--
 - 🔭 I’m currently working on ...
